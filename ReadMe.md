@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estudando Análise e Desenvolvimento De Sistema<br>👯 HTML - CSS - JavaScript<br>⚡ Estudando Para ser um programador profissional
+🔭 Estudando Análise e Desenvolvimento De Web<br>👯 HTML - CSS - JavaScript<br>⚡ Estudando Para ser um programador profissional
 
 
 # 💻 Tech Stack:
